@@ -1,0 +1,1 @@
+ # Learning Notes Personal practice notes and code snippets while learning  and Python. Written for my own revision — not polished project code. ## Contents - Python basics, strings, lists/tuples, dictionaries Use # for a big heading, ## for a smaller one, and - for bullet points.
